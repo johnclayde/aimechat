@@ -1,5 +1,0 @@
-XSym
-0116
-7951085163e79a0639c093a3e584bcdd
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/text/BaseTextShadowNode.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

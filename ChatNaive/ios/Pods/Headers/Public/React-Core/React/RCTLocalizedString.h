@@ -1,5 +1,0 @@
-XSym
-0075
-8322a85279d0f122b02cab085401b8e9
-../../../../../../node_modules/react-native/React/I18n/RCTLocalizedString.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

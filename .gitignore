@@ -1,6 +1,8 @@
 #directory
 Server/model_from_whisper/*
 Server/chatService/media/images/*
+ChatNaive/vendor/*
+ChatNaive/ios/Pods/*
 
 # Python
 __pycache__/

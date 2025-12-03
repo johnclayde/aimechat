@@ -1,5 +1,0 @@
-XSym
-0054
-f3c87228f9d43e98ac4d4bdc10211f00
-../../../../../node_modules/react-native-fs/Uploader.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

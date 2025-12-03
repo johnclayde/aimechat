@@ -1,5 +1,0 @@
-XSym
-0123
-e6bce6f8f854b0175d8cd7183f9ee01c
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/image/ImageComponentDescriptor.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

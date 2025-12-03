@@ -1,5 +1,0 @@
-XSym
-0165
-4d2c6ab22ad166e0c95dbb03327ea3c5
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/platform/ios/react/renderer/components/iostextinput/primitives.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

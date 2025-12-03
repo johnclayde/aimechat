@@ -1,5 +1,0 @@
-XSym
-0171
-8bafa12bec325ef39cae894b6b931a1d
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/platform/ios/react/renderer/components/iostextinput/propsConversions.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

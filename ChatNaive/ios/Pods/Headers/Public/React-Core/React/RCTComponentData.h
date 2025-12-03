@@ -1,5 +1,0 @@
-XSym
-0074
-30485222c94f41b1081ab15524b88439
-../../../../../../node_modules/react-native/React/Views/RCTComponentData.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

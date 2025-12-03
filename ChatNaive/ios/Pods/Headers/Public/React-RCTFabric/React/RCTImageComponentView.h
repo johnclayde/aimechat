@@ -1,5 +1,0 @@
-XSym
-0110
-8fc69801d4a97e642c71e5161ee1daad
-../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/Image/RCTImageComponentView.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

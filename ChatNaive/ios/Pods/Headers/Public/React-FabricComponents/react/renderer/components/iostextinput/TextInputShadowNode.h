@@ -1,5 +1,0 @@
-XSym
-0174
-d23d695cab1c18d95b769e50a8aafd00
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/platform/ios/react/renderer/components/iostextinput/TextInputShadowNode.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

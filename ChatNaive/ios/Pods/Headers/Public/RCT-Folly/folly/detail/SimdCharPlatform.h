@@ -1,5 +1,0 @@
-XSym
-0056
-0413dde11b6d6852ffb6436ea93d0c2e
-../../../../../RCT-Folly/folly/detail/SimdCharPlatform.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

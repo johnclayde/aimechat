@@ -1,5 +1,0 @@
-XSym
-0112
-458f80de842d7a45ead67fff039c5451
-../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/Switch/RCTSwitchComponentView.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

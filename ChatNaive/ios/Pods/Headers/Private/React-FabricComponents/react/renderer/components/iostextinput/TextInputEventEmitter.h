@@ -1,5 +1,0 @@
-XSym
-0176
-2618b9fb5dcc575f5e1a92b719471233
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/platform/ios/react/renderer/components/iostextinput/TextInputEventEmitter.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

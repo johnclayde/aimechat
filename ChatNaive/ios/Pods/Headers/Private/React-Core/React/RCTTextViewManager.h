@@ -1,5 +1,0 @@
-XSym
-0084
-973e19ebda2be48b09b4f8e923e23299
-../../../../../../node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

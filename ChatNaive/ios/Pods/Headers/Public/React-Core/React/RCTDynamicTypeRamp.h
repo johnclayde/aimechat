@@ -1,5 +1,0 @@
-XSym
-0084
-fe1f97240e17326c8c3292cc34eb1270
-../../../../../../node_modules/react-native/Libraries/Text/Text/RCTDynamicTypeRamp.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

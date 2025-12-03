@@ -1,5 +1,0 @@
-XSym
-0078
-c4344bab8547204381d50a8ae411fa93
-../../../Target Support Files/React-ImageManager/React-ImageManager-umbrella.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

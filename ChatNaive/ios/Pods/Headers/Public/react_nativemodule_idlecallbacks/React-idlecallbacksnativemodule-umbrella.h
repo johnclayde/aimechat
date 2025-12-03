@@ -1,5 +1,0 @@
-XSym
-0104
-0dc0f8bbf3a7961fd0453fcac6574950
-../../../Target Support Files/React-idlecallbacksnativemodule/React-idlecallbacksnativemodule-umbrella.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

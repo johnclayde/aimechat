@@ -1,5 +1,0 @@
-XSym
-0118
-d43da5957788055e8226e9f036f951a2
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/view/BaseViewEventEmitter.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

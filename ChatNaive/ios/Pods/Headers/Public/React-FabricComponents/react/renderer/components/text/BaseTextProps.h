@@ -1,5 +1,0 @@
-XSym
-0111
-f2ee95cda34ae8e5afcbdf6f99ad8568
-../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/text/BaseTextProps.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,5 +1,0 @@
-XSym
-0124
-6d6dfdd6fc9b6440a4f92672a67e2aec
-../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/SafeAreaView/RCTSafeAreaViewComponentView.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
