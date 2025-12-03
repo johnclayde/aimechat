@@ -1,0 +1,94 @@
+#directory
+Server/model_from_whisper/*
+Server/chatService/media/images/*
+
+ChatNaive/android/
+ChatNaive/ios/
+ChatNaive/__test__/
+ChatNaive/vendor/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.egg
+.env
+venv/
+.env*/
+
+# Flask
+instance/
+*.db
+*.sqlite3
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Redis (local dumps)
+dump.rdb
+*.rdb
+appendonly.aof
+
+# Logs
+logs/
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Node / React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native Metro bundler cache
+.expo/
+.expo-shared/
+build/
+bundles/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcuserstate
+*.xcworkspace
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserdatad/
+
+# Android
+android/.gradle/
+android/app/build/
+*.iml
+.gradle/
+build/
+local.properties
+
+# Kotlin / Java
+*.class
+out/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Misc
+*.bak
+*.tmp
+*.temp
+

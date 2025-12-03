@@ -1,0 +1,6 @@
+requests:
+1.create a website backend based on flask and celery and  flask-SSE
+2, the website  provide a restful api for the frontend .
+3. the website  provide a SSE for the frontend to get the real-time data.
+4. the website  can receive and send messages to the client through  websocket.
+5. the message data including text , image, and audio. it need not be stored in datatabse.
