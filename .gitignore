@@ -2,12 +2,6 @@
 Server/model_from_whisper/*
 Server/chatService/media/images/*
 
-ChatNaive/android/
-ChatNaive/ios/
-ChatNaive/__test__/
-ChatNaive/vendor/
-
-
 # Python
 __pycache__/
 *.py[cod]
