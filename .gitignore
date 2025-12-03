@@ -3,6 +3,8 @@ Server/model_from_whisper/*
 Server/chatService/media/images/*
 ChatNaive/vendor/*
 ChatNaive/ios/Pods/*
+ChatNaive/ios/ChatNaive.xcodeproj/*
+ChatNaive/ios/ChatNaive.xcworkspace/*
 
 # Python
 __pycache__/
