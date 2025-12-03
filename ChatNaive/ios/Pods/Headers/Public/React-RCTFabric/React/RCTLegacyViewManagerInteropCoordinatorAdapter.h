@@ -1,0 +1,5 @@
+XSym
+0153
+5b5b139b80dee190fc955f142da81667
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/LegacyViewManagerInterop/RCTLegacyViewManagerInteropCoordinatorAdapter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

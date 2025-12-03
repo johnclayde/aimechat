@@ -1,0 +1,5 @@
+XSym
+0109
+c87263e22764bafaac695714bb8d8096
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/core/ReactRootViewTagGenerator.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

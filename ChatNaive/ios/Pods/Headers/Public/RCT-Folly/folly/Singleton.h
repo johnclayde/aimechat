@@ -1,0 +1,5 @@
+XSym
+0039
+42f510d701adffdb2420c28fc7440837
+../../../../RCT-Folly/folly/Singleton.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

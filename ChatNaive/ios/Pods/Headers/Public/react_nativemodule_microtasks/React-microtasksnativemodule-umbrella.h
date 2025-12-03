@@ -1,0 +1,5 @@
+XSym
+0098
+c031b73d74fb4f5a736fe3a82171533e
+../../../Target Support Files/React-microtasksnativemodule/React-microtasksnativemodule-umbrella.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

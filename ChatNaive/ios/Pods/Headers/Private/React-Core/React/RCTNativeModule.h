@@ -1,0 +1,5 @@
+XSym
+0077
+579b8ff53a21a66ad8be0e21f42d2719
+../../../../../../node_modules/react-native/React/CxxModule/RCTNativeModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

@@ -1,0 +1,5 @@
+XSym
+0127
+b384f6f63d60f4a01a9ae44756d330f0
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/scrollview/RCTComponentViewHelpers.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0072
+250ba701f052c201f809be629c847700
+../../../../../node_modules/react-native-permissions/ios/RNPermissions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

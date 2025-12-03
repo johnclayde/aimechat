@@ -1,0 +1,5 @@
+XSym
+0087
+b067293a4fd7d580d469794ebf6b4173
+../../../../../../node_modules/react-native/React/CoreModules/RCTAccessibilityManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

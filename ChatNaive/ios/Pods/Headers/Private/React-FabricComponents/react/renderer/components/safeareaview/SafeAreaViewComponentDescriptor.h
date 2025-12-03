@@ -1,0 +1,5 @@
+XSym
+0137
+5e5d08530cac2a16a57b22d2b337c87e
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/safeareaview/SafeAreaViewComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

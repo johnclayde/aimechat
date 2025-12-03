@@ -1,0 +1,5 @@
+XSym
+0106
+34fe6e79c374ab36d06f58f35c703f85
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/mounting/ShadowTreeRegistry.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

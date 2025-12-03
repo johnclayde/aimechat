@@ -1,0 +1,5 @@
+XSym
+0045
+a412ce6b734b2399bad7586dc5946832
+../../../../RCT-Folly/folly/MaybeManagedPtr.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

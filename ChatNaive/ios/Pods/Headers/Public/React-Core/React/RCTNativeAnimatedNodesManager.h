@@ -1,0 +1,5 @@
+XSym
+0101
+d5cc7104f34203a83da1e0deea52ac3b
+../../../../../../node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

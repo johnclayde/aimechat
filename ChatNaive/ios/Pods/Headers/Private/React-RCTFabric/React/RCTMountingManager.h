@@ -1,0 +1,5 @@
+XSym
+0086
+74473c5acf09a55c471a12dcd9e3b65c
+../../../../../../node_modules/react-native/React/Fabric/Mounting/RCTMountingManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

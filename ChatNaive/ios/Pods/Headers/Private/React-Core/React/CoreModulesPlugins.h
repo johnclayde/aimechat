@@ -1,0 +1,5 @@
+XSym
+0082
+eeaddb2e207f4d1eea4c409671bf4dcf
+../../../../../../node_modules/react-native/React/CoreModules/CoreModulesPlugins.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

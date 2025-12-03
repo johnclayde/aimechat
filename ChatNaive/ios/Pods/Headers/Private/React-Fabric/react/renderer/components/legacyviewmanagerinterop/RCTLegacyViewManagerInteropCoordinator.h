@@ -1,0 +1,5 @@
+XSym
+0156
+ece479dd5db35e54805469fd676c8bd4
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/legacyviewmanagerinterop/RCTLegacyViewManagerInteropCoordinator.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

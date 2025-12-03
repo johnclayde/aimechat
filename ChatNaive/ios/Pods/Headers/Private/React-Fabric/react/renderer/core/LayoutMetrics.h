@@ -1,0 +1,5 @@
+XSym
+0097
+d891bd3da63558152c835b3b293b04e4
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/core/LayoutMetrics.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

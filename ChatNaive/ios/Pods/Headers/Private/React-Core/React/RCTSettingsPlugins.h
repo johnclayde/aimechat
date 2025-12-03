@@ -1,0 +1,5 @@
+XSym
+0083
+5c8e352e82f09550968bc7d63388a4db
+../../../../../../node_modules/react-native/Libraries/Settings/RCTSettingsPlugins.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0067
+f58a69c2c754763d4d30a2bb9e9c82f4
+../../../../../../node_modules/react-native/React/Base/RCTVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

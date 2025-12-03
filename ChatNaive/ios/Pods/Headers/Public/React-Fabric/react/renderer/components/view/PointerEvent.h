@@ -1,0 +1,5 @@
+XSym
+0110
+11be63a28bf8dc0364da9b84764c84d5
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/view/PointerEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

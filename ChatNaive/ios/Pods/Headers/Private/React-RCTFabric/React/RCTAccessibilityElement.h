@@ -1,0 +1,5 @@
+XSym
+0111
+e761ae61852419ccaa79c46690c554d7
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/Text/RCTAccessibilityElement.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

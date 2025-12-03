@@ -1,0 +1,5 @@
+XSym
+0074
+8ed2bc3d28a0c8b40cc6d1c62d3c983f
+../../../../../../node_modules/react-native/React/Views/RCTSwitchManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

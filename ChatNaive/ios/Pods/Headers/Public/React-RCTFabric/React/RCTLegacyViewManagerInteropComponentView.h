@@ -1,0 +1,5 @@
+XSym
+0148
+e785bd87a3269cdf21ec167ae30ee88b
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/LegacyViewManagerInterop/RCTLegacyViewManagerInteropComponentView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0121
+753ebfdeba6eb4737935c5df9d992eb7
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/view/ViewComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0109
+3dd823dd67fc1f4dc271620d589625ac
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/RCTFabricComponentsPlugins.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

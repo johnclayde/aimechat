@@ -1,0 +1,5 @@
+XSym
+0171
+cf934fc7442891eaec5c56bb72207074
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/textlayoutmanager/platform/ios/react/renderer/textlayoutmanager/RCTTextPrimitivesConversions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

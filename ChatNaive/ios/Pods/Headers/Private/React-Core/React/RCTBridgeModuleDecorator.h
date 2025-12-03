@@ -1,0 +1,5 @@
+XSym
+0081
+c16f1da5406ebf8c0b4a6b9096214cba
+../../../../../../node_modules/react-native/React/Base/RCTBridgeModuleDecorator.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

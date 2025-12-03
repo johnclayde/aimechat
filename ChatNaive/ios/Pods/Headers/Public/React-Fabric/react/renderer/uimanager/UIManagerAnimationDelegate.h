@@ -1,0 +1,5 @@
+XSym
+0115
+bd2fc79d794b7b52cfae4fcc86898d21
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/uimanager/UIManagerAnimationDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

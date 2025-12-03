@@ -1,0 +1,5 @@
+XSym
+0092
+94e85a3c8763ff245744b1cea3e2febb
+../../../../../../node_modules/react-native/React/Fabric/RCTTouchableComponentViewProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

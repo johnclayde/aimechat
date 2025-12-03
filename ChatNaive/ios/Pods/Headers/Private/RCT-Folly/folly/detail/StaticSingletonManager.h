@@ -1,0 +1,5 @@
+XSym
+0062
+376717f314a9823408c26748b08601a8
+../../../../../RCT-Folly/folly/detail/StaticSingletonManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

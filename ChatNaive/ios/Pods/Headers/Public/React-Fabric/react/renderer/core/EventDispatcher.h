@@ -1,0 +1,5 @@
+XSym
+0099
+0757d70a4b34379481d41476113380ab
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/core/EventDispatcher.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0065
+fcc31657f7327bf586b2110d730df2fb
+../../../../../RCT-Folly/folly/detail/SimpleSimdStringUtilsImpl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

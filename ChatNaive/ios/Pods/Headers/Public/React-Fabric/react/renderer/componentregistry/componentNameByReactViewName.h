@@ -1,0 +1,5 @@
+XSym
+0125
+1fa4d8677f277053d27454e8d1ffa596
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/componentregistry/componentNameByReactViewName.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

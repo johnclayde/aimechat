@@ -1,0 +1,5 @@
+XSym
+0163
+02d8764bde8b06f10c217cb532f8ed70
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/textlayoutmanager/platform/ios/react/renderer/textlayoutmanager/RCTTextLayoutManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

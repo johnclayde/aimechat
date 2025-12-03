@@ -1,0 +1,5 @@
+XSym
+0110
+1d0f2281c2db47e3a034b01e462bcf42
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/attributedstring/TextAttributes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0079
+06fc0ad38ad02ff617b01a99d81ce125
+../../../../../../node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

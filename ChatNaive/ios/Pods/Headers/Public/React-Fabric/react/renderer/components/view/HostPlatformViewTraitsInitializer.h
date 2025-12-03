@@ -1,0 +1,5 @@
+XSym
+0175
+8ac2f11787410655397f069c05ff1bfd
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/view/platform/cxx/react/renderer/components/view/HostPlatformViewTraitsInitializer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

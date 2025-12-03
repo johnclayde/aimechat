@@ -1,0 +1,5 @@
+XSym
+0160
+9a6efce8a73446986647c7cbe21cca68
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/textlayoutmanager/platform/ios/react/renderer/textlayoutmanager/RCTFontProperties.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

@@ -1,0 +1,5 @@
+XSym
+0121
+dad4e751c7bc4f9f7a4ba909e14aedd5
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/BaseTextInputProps.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

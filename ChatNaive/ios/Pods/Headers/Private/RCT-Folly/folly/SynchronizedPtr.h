@@ -1,0 +1,5 @@
+XSym
+0045
+3e645471a9c3911f86b73f5ec38b1a95
+../../../../RCT-Folly/folly/SynchronizedPtr.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

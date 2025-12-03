@@ -1,0 +1,5 @@
+XSym
+0133
+ade89493fb936f62def917067d28115a
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/scrollview/ScrollViewComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

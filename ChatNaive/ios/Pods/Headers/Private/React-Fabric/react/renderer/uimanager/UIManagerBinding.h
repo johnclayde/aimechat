@@ -1,0 +1,5 @@
+XSym
+0105
+2a6107c76ee947522c7d5614a9dcebb2
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/uimanager/UIManagerBinding.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

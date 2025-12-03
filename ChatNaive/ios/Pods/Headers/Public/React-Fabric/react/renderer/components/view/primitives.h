@@ -1,0 +1,5 @@
+XSym
+0108
+20ffc84c72d02c415c2cdbb9deb16b52
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/view/primitives.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

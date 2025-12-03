@@ -1,0 +1,5 @@
+XSym
+0152
+b5e87c712c491819ee8011fbf0b228b0
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/legacyviewmanagerinterop/LegacyViewManagerInteropShadowNode.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

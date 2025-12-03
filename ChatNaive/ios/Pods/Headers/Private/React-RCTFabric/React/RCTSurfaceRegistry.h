@@ -1,0 +1,5 @@
+XSym
+0077
+6508c8c4fbff402863ffe3fe1c3684e0
+../../../../../../node_modules/react-native/React/Fabric/RCTSurfaceRegistry.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

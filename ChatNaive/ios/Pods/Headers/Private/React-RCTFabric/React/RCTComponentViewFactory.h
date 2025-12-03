@@ -1,0 +1,5 @@
+XSym
+0091
+12a97385c5a0e2c190432b899c4e0d40
+../../../../../../node_modules/react-native/React/Fabric/Mounting/RCTComponentViewFactory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

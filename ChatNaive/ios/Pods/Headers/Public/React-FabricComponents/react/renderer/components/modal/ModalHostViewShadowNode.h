@@ -1,0 +1,5 @@
+XSym
+0122
+a8b52b97ddf06702c487287173495c45
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/modal/ModalHostViewShadowNode.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

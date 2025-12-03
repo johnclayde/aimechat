@@ -1,0 +1,5 @@
+XSym
+0138
+26d2310e1937a18a73fdef3fe6131246
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/ActivityIndicator/RCTActivityIndicatorViewComponentView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

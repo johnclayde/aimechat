@@ -1,0 +1,5 @@
+XSym
+0043
+945c2eecd44811cdc9d73e1f8380f5cd
+../../../../RCT-Folly/folly/Singleton-inl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

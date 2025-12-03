@@ -1,0 +1,5 @@
+XSym
+0091
+e7567ea4347cfc075d92f9c0453c7b21
+../../../../../../node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

@@ -1,0 +1,5 @@
+XSym
+0148
+5a499ac5fcc99ba63341c01dbcc0429c
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/imagemanager/platform/ios/react/renderer/imagemanager/RCTImageManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

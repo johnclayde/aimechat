@@ -1,0 +1,5 @@
+XSym
+0131
+99c98188959fb2e4d827d58a9e91626e
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/modal/ModalHostViewComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

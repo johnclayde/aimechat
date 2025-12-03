@@ -1,0 +1,5 @@
+XSym
+0083
+8ce12e4c7d31aa8b4361304c8a91e27b
+../../../../../node_modules/react-native/Libraries/AppDelegate/RCTRootViewFactory.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

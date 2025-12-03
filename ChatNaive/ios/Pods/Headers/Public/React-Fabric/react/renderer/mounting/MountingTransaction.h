@@ -1,0 +1,5 @@
+XSym
+0107
+d8bea4470f62ee016fda2c0a17998302
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/mounting/MountingTransaction.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

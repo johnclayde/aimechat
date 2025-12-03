@@ -1,0 +1,5 @@
+XSym
+0166
+ff814720759676d40900aeda27129312
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/platform/ios/react/renderer/components/iostextinput/conversions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

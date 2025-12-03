@@ -1,0 +1,5 @@
+XSym
+0158
+62a56b2e2e8db8a8a8a555ef4ee11682
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/legacyviewmanagerinterop/LegacyViewManagerInteropViewEventEmitter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

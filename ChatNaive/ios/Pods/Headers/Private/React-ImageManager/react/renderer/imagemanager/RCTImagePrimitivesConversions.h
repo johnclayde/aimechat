@@ -1,0 +1,5 @@
+XSym
+0162
+71bb4ef45c6d553173f635c4b405e3e8
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/imagemanager/platform/ios/react/renderer/imagemanager/RCTImagePrimitivesConversions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

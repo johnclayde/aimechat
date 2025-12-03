@@ -1,0 +1,5 @@
+XSym
+0061
+df2a3730911327c8a17301e0e28356a2
+../../../../../RCT-Folly/folly/detail/FingerprintPolynomial.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

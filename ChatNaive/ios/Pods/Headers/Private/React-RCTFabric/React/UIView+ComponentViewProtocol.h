@@ -1,0 +1,5 @@
+XSym
+0096
+8da11d884cd8a4935abf549cb9bd3d9d
+../../../../../../node_modules/react-native/React/Fabric/Mounting/UIView+ComponentViewProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

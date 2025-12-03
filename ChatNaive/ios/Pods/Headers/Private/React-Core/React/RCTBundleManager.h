@@ -1,0 +1,5 @@
+XSym
+0073
+8c8ff08cac0252fe7f78c4031e2a9af6
+../../../../../../node_modules/react-native/React/Base/RCTBundleManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

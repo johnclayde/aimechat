@@ -1,0 +1,5 @@
+XSym
+0112
+6c79d77dc4afdf876256a396ded75182
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/text/TextShadowNode.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

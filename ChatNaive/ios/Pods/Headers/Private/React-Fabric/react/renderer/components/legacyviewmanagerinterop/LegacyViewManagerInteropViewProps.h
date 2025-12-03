@@ -1,0 +1,5 @@
+XSym
+0151
+3fbf81abf9d1c1bc4ead41bc54c52880
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/legacyviewmanagerinterop/LegacyViewManagerInteropViewProps.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

@@ -1,0 +1,5 @@
+XSym
+0107
+2670b3c79589a39666d6caa8537ee781
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/uimanager/UIManagerMountHook.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

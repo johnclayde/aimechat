@@ -1,0 +1,68 @@
+diff --git a/node_modules/react-native-audio-record/android/build.gradle b/node_modules/react-native-audio-record/android/build.gradle
+index de6cdf1..6acd29e 100644
+--- a/node_modules/react-native-audio-record/android/build.gradle
++++ b/node_modules/react-native-audio-record/android/build.gradle
+@@ -10,6 +10,7 @@ def safeExtGet(prop, fallback) {
+ }
+ 
+ android {
++    namespace "com.goodatlas.audiorecord"
+     compileSdkVersion safeExtGet("compileSdkVersion", DEFAULT_COMPILE_SDK_VERSION)
+     buildToolsVersion safeExtGet("buildToolsVersion", DEFAULT_BUILD_TOOLS_VERSION)
+ 
+diff --git a/node_modules/react-native-audio-record/android/src/main/AndroidManifest.xml b/node_modules/react-native-audio-record/android/src/main/AndroidManifest.xml
+index 5a10b11..4d9a2f0 100644
+--- a/node_modules/react-native-audio-record/android/src/main/AndroidManifest.xml
++++ b/node_modules/react-native-audio-record/android/src/main/AndroidManifest.xml
+@@ -1,5 +1,4 @@
+ 
+-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+-          package="com.goodatlas.audiorecord">
++<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+ </manifest>
+diff --git a/node_modules/react-native-audio-record/android/src/main/java/com/goodatlas/audiorecord/RNAudioRecordModule.java b/node_modules/react-native-audio-record/android/src/main/java/com/goodatlas/audiorecord/RNAudioRecordModule.java
+index 11c5ad8..0f7c03a 100644
+--- a/node_modules/react-native-audio-record/android/src/main/java/com/goodatlas/audiorecord/RNAudioRecordModule.java
++++ b/node_modules/react-native-audio-record/android/src/main/java/com/goodatlas/audiorecord/RNAudioRecordModule.java
+@@ -1,10 +1,15 @@
+ package com.goodatlas.audiorecord;
+ 
++import android.Manifest;
++import android.content.pm.PackageManager;
+ import android.media.AudioFormat;
+ import android.media.AudioRecord;
+ import android.media.MediaRecorder.AudioSource;
+ import android.util.Base64;
+ import android.util.Log;
++import android.os.Build;
++
++import androidx.core.content.ContextCompat;
+ 
+ import com.facebook.react.bridge.Promise;
+ import com.facebook.react.bridge.ReactApplicationContext;
+@@ -86,7 +91,23 @@ public class RNAudioRecordModule extends ReactContextBaseJavaModule {
+ 
+         bufferSize = AudioRecord.getMinBufferSize(sampleRateInHz, channelConfig, audioFormat);
+         int recordingBufferSize = bufferSize * 3;
+-        recorder = new AudioRecord(audioSource, sampleRateInHz, channelConfig, audioFormat, recordingBufferSize);
++        
++        // Check permission before creating AudioRecord
++        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
++            if (ContextCompat.checkSelfPermission(reactContext, Manifest.permission.RECORD_AUDIO) 
++                    != PackageManager.PERMISSION_GRANTED) {
++                Log.e(TAG, "RECORD_AUDIO permission not granted");
++                // Don't create recorder if permission is not granted
++                return;
++            }
++        }
++        
++        try {
++            recorder = new AudioRecord(audioSource, sampleRateInHz, channelConfig, audioFormat, recordingBufferSize);
++        } catch (SecurityException e) {
++            Log.e(TAG, "SecurityException creating AudioRecord: " + e.getMessage());
++            throw e;
++        }
+     }
+ 
+     @ReactMethod

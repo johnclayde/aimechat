@@ -1,0 +1,5 @@
+XSym
+0099
+69f27b6c2c88731e34abcef5e5cbf986
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/uimanager/primitives.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

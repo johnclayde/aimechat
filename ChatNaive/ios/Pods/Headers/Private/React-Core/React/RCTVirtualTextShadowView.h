@@ -1,0 +1,5 @@
+XSym
+0097
+d6d354aac26773e201ff33ae78316d47
+../../../../../../node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0108
+b2c0fcd36ca7bb5005ae9654f33d1b5b
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/Root/RCTRootComponentView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

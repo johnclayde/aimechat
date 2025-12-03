@@ -1,0 +1,5 @@
+XSym
+0078
+636f53da3894f45c25dd075bdc53cde7
+../../../../../../RCT-Folly/folly/container/detail/F14IntrinsicsAvailability.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

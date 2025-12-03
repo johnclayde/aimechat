@@ -1,0 +1,5 @@
+XSym
+0045
+79609224bd9dce58b85daae120589c3d
+../../../../RCT-Folly/folly/VirtualExecutor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

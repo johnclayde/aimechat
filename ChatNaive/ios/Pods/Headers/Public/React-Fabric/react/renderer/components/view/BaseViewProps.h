@@ -1,0 +1,5 @@
+XSym
+0111
+fee579b37f381ca57e13a7aa2d6775b1
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/view/BaseViewProps.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

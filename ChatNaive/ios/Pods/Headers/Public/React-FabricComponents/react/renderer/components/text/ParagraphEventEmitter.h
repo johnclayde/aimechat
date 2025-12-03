@@ -1,0 +1,5 @@
+XSym
+0119
+618976262eab16ca8d26b249eb686f50
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/text/ParagraphEventEmitter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

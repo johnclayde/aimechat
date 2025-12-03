@@ -1,0 +1,5 @@
+XSym
+0100
+b393d42e7a80f26717f4769701ab8342
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/core/ShadowNodeTraits.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0072
+27793531f26210bae22fc1838b9cdcf3
+../../../../../../node_modules/react-native/React/Views/RCTViewManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

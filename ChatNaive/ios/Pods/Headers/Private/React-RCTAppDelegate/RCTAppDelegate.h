@@ -1,0 +1,5 @@
+XSym
+0079
+e83fab59adf2f2ed6e9f41d4f78aadfd
+../../../../../node_modules/react-native/Libraries/AppDelegate/RCTAppDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

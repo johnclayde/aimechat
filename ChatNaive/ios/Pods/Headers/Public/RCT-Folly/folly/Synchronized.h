@@ -1,0 +1,5 @@
+XSym
+0042
+a0c320785681ce488c05b3f5d3a3340f
+../../../../RCT-Folly/folly/Synchronized.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

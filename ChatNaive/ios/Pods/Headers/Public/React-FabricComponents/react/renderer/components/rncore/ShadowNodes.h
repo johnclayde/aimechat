@@ -1,0 +1,5 @@
+XSym
+0111
+6753989ad1c14295cf746150784b0d00
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/rncore/ShadowNodes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0045
+f00259ab5afc4f64a8bfbd92a746a844
+../../../../RCT-Folly/folly/ThreadCachedInt.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

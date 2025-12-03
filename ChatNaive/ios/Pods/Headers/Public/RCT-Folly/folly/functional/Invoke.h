@@ -1,0 +1,5 @@
+XSym
+0050
+622392feb5f2fc1052a242e41efec00e
+../../../../../RCT-Folly/folly/functional/Invoke.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0050
+de0ca1256c858974e180d97661685a24
+../../../../RCT-Folly/folly/SingletonThreadLocal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

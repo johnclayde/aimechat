@@ -1,0 +1,5 @@
+XSym
+0070
+01b628bf2b2129915e84333f68ae796e
+../../../../../../node_modules/react-native/React/Base/RCTModuleData.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

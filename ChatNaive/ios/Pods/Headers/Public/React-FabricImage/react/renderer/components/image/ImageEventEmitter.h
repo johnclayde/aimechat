@@ -1,0 +1,5 @@
+XSym
+0116
+3f763e568d3637104707b4361f1f202c
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/image/ImageEventEmitter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

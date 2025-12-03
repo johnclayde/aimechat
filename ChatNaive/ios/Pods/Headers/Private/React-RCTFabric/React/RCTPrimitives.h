@@ -1,0 +1,5 @@
+XSym
+0072
+21614c36c34a7c82d9938113a9a5d729
+../../../../../../node_modules/react-native/React/Fabric/RCTPrimitives.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

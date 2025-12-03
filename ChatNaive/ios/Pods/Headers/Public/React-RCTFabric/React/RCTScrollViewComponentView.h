@@ -1,0 +1,5 @@
+XSym
+0120
+3ae1b342d562aef7b7f43f699efcedde
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/ScrollView/RCTScrollViewComponentView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

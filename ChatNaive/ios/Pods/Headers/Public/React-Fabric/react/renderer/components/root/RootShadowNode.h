@@ -1,0 +1,5 @@
+XSym
+0112
+5b12096d2f394d8e9be320e4dcca5b1f
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/root/RootShadowNode.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

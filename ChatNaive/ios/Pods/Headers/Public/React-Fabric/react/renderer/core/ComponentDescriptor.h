@@ -1,0 +1,5 @@
+XSym
+0103
+172aaff0f1999872d10196d783e967e2
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/core/ComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

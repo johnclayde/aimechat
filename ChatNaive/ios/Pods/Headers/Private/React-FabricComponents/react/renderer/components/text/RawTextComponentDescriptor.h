@@ -1,0 +1,5 @@
+XSym
+0124
+e113ac79a1b3b977106fa6702ee01b41
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/text/RawTextComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

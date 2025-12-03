@@ -1,0 +1,5 @@
+XSym
+0107
+7f826bae211ea2134bad0007b220e110
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/text/TextProps.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

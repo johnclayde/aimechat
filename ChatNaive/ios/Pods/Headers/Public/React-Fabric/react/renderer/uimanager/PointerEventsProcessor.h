@@ -1,0 +1,5 @@
+XSym
+0111
+82c212842ccc3322b494cd6b9df31303
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/uimanager/PointerEventsProcessor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

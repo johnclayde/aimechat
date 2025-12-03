@@ -1,0 +1,5 @@
+XSym
+0090
+c10616c270e19fcf674a2d0540464e94
+../../../Target Support Files/React-NativeModulesApple/React-NativeModulesApple-umbrella.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

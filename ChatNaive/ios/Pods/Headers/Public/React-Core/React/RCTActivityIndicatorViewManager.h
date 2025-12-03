@@ -1,0 +1,5 @@
+XSym
+0089
+655b09528458a3ec09077d1d56d9395e
+../../../../../../node_modules/react-native/React/Views/RCTActivityIndicatorViewManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

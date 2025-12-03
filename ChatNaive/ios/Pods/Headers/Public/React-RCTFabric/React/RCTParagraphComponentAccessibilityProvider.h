@@ -1,0 +1,5 @@
+XSym
+0130
+c7d6100e0d845ef5a22468e5337aa550
+../../../../../../node_modules/react-native/React/Fabric/Mounting/ComponentViews/Text/RCTParagraphComponentAccessibilityProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

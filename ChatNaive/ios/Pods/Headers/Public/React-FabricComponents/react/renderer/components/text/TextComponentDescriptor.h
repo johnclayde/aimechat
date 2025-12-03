@@ -1,0 +1,5 @@
+XSym
+0121
+8f213d4972d77c0ac0d5dd52320ccbf9
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/text/TextComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0077
+71df2f562c4b8d6bf01f4e777b472429
+../../../../../../node_modules/react-native/React/CoreModules/RCTAppearance.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

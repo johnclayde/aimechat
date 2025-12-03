@@ -1,0 +1,5 @@
+XSym
+0082
+5177aca2e7c94fd0d691546727c8d1c2
+../../../../../../node_modules/react-native/React/CoreModules/RCTWebSocketModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

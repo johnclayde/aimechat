@@ -1,0 +1,5 @@
+XSym
+0121
+b5765b45dfbf400217443b69758a6e6d
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/root/RootComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

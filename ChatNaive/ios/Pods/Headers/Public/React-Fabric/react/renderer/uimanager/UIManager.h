@@ -1,0 +1,5 @@
+XSym
+0098
+b5ec83c76bfe150ed72412832c608bcb
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/uimanager/UIManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0171
+34774f4c2b478c2faf459fef366cbd10
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/legacyviewmanagerinterop/UnstableLegacyViewManagerAutomaticComponentDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

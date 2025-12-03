@@ -1,0 +1,5 @@
+XSym
+0160
+360545a5d2d64ebd7f66a3c1a0931b6e
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/textlayoutmanager/platform/ios/react/renderer/textlayoutmanager/TextLayoutManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

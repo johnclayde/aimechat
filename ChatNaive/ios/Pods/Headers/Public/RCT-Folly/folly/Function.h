@@ -1,0 +1,5 @@
+XSym
+0038
+8681888b82b2b444fb472d9eac64d3ff
+../../../../RCT-Folly/folly/Function.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,5 @@
+XSym
+0107
+54031ede91548231be6b748b6d9e1619
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/root/RootProps.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
