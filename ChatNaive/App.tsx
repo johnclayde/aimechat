@@ -32,7 +32,7 @@ const App: React.FC = () => {
 
   // Socket.IO connection URL - Flask server with Socket.IO
   // Server URL from ANDROID_CONNECTION.md
-  const SERVER_URL = 'http://10.88.216.33:8000';
+  const SERVER_URL = 'http://10.252.7.33:8000';
   const SOCKET_PATH = '/ws/chat/';
 
   useEffect(() => {
